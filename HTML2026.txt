@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+div {
+Font-family: verdana;
+background-color: white;
+color:black ;
+}
+.span1{
+color:#db1d1d ;
+}
+.span2{
+color:#e8a527 ;
+}
+.span3{
+color:#7912e0 ;
+}
+</style>
+
+
+<div>
+This book features four application namely <span class="span1">MS Word</span>, MS Excel, MS Powerpoint and MSOutlook. It aims to develop the <span class="span2">core appliance</span> of compture technology such as PC operations and <span class="span3">organization of schedules and contacts.</span>
+</div>
+</head>
+</html>
